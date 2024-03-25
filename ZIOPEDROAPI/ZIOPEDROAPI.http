@@ -1,0 +1,6 @@
+@ZIOPEDROAPI_HostAddress = http://localhost:5096
+
+GET {{ZIOPEDROAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
